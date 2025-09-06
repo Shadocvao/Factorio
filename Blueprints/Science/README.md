@@ -1,7 +1,6 @@
 Total ingredients required per min:
 
 1716 Iron Plates
-
 1410 Stone
 
 1338 Copper Plates
