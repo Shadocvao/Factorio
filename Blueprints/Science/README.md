@@ -1,33 +1,15 @@
-## Total ingredients required per min:
+## Ingredients required
 
-- 1716 Iron Plates\
-- 1410 Stone\
-- 1338 Copper Plates\
-- 1111 Green Circuits\
-- 1103 Sulphuric Acid
-- 871 Steel
-- 411 Red Circuits
-338 Lube
-301 Coal
-300 Plastic
-30 Sulphur
-
-## Total ingredients required per second:
-
-28.59 Iron Plates - .953 red belt
-23.5 Stone - 0.783 red belt
-22.3 Copper Plates - 0.743 red belt
-18.51 Green Circuits - 0.617 red belt
-18.83 Sulphuric Acid - 1 pipeline
-14.51 Steel - 0.483 red belt
-18.51 Red Circuits - 0.616 red belt
-5.625 Lube - 1 pipeline
-5 Coal - 0.166 red belt
-5 Plastic - 0.116 red belt
-0.5 Sulphur - 0.016 red belt
-
-|  Item | Amount/min  | Amount/sec  | No. red belts  | 
-|---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Item           | Amount/min  | Amount/sec  | No. red belts   |
+|----------------|-------------|-------------|-----------------|
+| Iron Plates    | 28.59       | 28.59       |  .953 red belt  |
+| Stone          | 23.5        | 23.5        |  0.783 red belt |
+| Copper Plates  | 22.3        | 22.3        |  0.743 red belt |
+| Green Circuits | 18.51       | 18.51       |  0.617 red belt |
+| Sulphuric Acid | 18.83       | 18.83       |  1 pipeline     |
+| Steel          | 14.51       | 14.51       |  0.483 red belt |
+| Red Circuits   | 18.51       | 18.51       |  0.616 red belt |
+| Lube           | 5.625       | 5.625       |  1 pipeline     |
+| Coal           | 5           | 5           |  0.166 red belt |
+| Plastic        | 5           | 5           |  0.116 red belt |
+| Sulphur        | 0.5         | 0.5         |  0.016 red belt |
