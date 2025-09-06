@@ -1,4 +1,4 @@
-## Ingredients required
+## Ingredients required for ~60/min
 
 | Item           | Amount/min  | Amount/sec  | No. red belts   |
 |----------------|-------------|-------------|-----------------|
