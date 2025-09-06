@@ -2,7 +2,7 @@
 
 | Item           | Amount/min  | Amount/sec  | No. red belts   |
 |----------------|-------------|-------------|-----------------|
-| Iron Plates    | 1716        | 28.59       |  .953 red belt  |
+| Iron Plates    | 1716        | 28.59       |  0.953 red belt  |
 | Stone          | 1410        | 23.5        |  0.783 red belt |
 | Copper Plates  | 1338        | 22.3        |  0.743 red belt |
 | Green Circuits | 1111        | 18.51       |  0.617 red belt |
