@@ -12,7 +12,7 @@
 | Advanced Circuits - 10/sec | Plastic        | 940.8      | 15.68      | 0.52      | 0.35       |
 |                            | Green Circuits | 940.8      | 15.68      | 0.52      | 0.35       |
 |                            | Copper Plates  | 838.8      | 13.98      | 0.47      | 0.31       |
-| Advanced Circuits - 45/sec | Plastic        | 4141.2     | 69.02      | 2.3       | 1.53       |
+| Advanced Circuits - 40/sec | Plastic        | 4141.2     | 69.02      | 2.3       | 1.53       |
 |                            | Green Circuits | 4141.2     | 69.02      | 2.3       | 1.53       |
 |                            | Copper Plates  | 2515.8     | 41.93      | 1.4       | 0.93       |
 
